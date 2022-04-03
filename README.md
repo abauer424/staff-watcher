@@ -2,9 +2,7 @@
 
 ## Description 
 
-For this assignment, our task was to build a Node.js command-line application that takes information about a team and compiles it into an html page that has information for each person. It was also required to do various steps throughout the coding process to make sure everything works and all of the tests pass.
-
-For My Awesome Team, I used Jest for running tests and Inquirer for collecting the input form the user. I made a folder directory that was easy to navigate through and store coded files. 
+For this assignment, our task was to build a command-line application from scratch to manage a company's employee database using Node.js, Inquirer and MySQL.
 
 Please view the walkthrough video <a href ="https://www.dropbox.com/s/4g6gfwwkilt6guz/Amber%20Bauer%20.mp4?dl=0"> here. </a>
 
@@ -20,7 +18,7 @@ Please view the walkthrough video <a href ="https://www.dropbox.com/s/4g6gfwwkil
 
 ## Installation
 
-To install the project, you need to use git clone and git pull from <a href ="https://github.com/abauer424/team-profile-generator">my repository.</a> After cloning its important to install Node, Jest & Inquirer.  
+To install the project, you need to use git clone and git pull from <a href ="https://github.com/abauer424/staff-watcher">my repository.</a>
 
 
 ## Usage 
@@ -42,7 +40,7 @@ Credit to Amber Bauer, W3Schools.com, Office hours and Tutor.
 
 ## License
 
-Please view the license <a href="https://github.com/abauer424/team-profile-generator/blob/main/LICENSE">here.</a>
+Please view the license <a href="https://github.com/abauer424/staff-watcher/blob/main/LICENSE">here.</a>
 
 
 
